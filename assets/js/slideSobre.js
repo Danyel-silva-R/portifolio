@@ -6,8 +6,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Define a largura dos elementos com base na largura do conteúdo
     const scrollWidth = headlineScroll.scrollWidth;
-    headlineScroll.style.width = `${scrollWidth}150px`;
-    clone.style.width = `${scrollWidth}300px`;
+    headlineScroll.style.width = `${scrollWidth}px`;
+    clone.style.width = `${scrollWidth}px`;
 });
 
 // Cria e adiciona um estilo CSS para a animação de rolagem
