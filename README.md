@@ -32,9 +32,7 @@ Este portfólio foi criado para centralizar meus projetos e habilidades em um si
   - EmailJS para envio de mensagens no formulário de contato
 
 - **Design**:
-  - Figma, Canva, Rive para o design e estrutura visual
-  - SketchUp e impressão 3D para design de projetos personalizados
-
+  - Figma, Canva
 ---
 
 ## 📂 Estrutura do Projeto
