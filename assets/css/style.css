@@ -301,6 +301,7 @@ a {
     font-family: var(--font-pequena);
 }
 
+
 /* Botão Inicio */
 .cta {
     position: relative;
@@ -546,18 +547,9 @@ a {
     animation: rotate 20s linear infinite;
 }
 
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}
 
 .imagem-sobre img {
-    width: 90%;
+    width: 70%;
     z-index: 99;
 }
 
